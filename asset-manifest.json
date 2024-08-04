@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CatalogAssignment/static/css/main.fc981cda.css",
+    "main.js": "/CatalogAssignment/static/js/main.8ec39363.js",
+    "index.html": "/CatalogAssignment/index.html",
+    "main.fc981cda.css.map": "/CatalogAssignment/static/css/main.fc981cda.css.map",
+    "main.8ec39363.js.map": "/CatalogAssignment/static/js/main.8ec39363.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc981cda.css",
+    "static/js/main.8ec39363.js"
+  ]
+}
