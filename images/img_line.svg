@@ -17,11 +17,9 @@
 
 
 
- <path d="M1 50 L790 50 " stroke="#A9A9A9" stroke-width="2" stroke-dasharray="5,5" fill="none" />
+ <path d="M1 50 L751 50 " stroke="#A9A9A9" stroke-width="2" stroke-dasharray="5,5" fill="none" />
  <path d="M330 10 L330 390" stroke="#A9A9A9" stroke-width="2" stroke-dasharray="5,5" fill="none" />
 
- <path d="M0 20 L0 480" stroke="#D3D3D3" stroke-width="2" fill="none" />
-  <!-- Second vertical line -->
   <path d="M120 10 L120 290" stroke="#D3D3D3" stroke-width="2" fill="none" />
   <!-- Third vertical line -->
   <path d="M250 10 L250 290" stroke="#D3D3D3" stroke-width="2" fill="none" />
@@ -31,8 +29,7 @@
   <path d="M505 10 L505 290" stroke="#D3D3D3" stroke-width="2" fill="none" />
     <!-- Third vertical line -->
   <path d="M625 10 L625 780" stroke="#D3D3D3" stroke-width="2" fill="none" />
-    <!-- Third vertical line -->
-  <path d="M750 10 L750 300" stroke="#D3D3D3" stroke-width="2" fill="none" /> 
+ 
 
 
 
